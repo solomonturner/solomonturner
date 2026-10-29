@@ -16,6 +16,7 @@ Aspiring data analyst based in Edmonton, AB, building a portfolio in SQL, Postgr
   https://github.com/solomonturner/ironscales_phishing_analysis
 - **Excel dashboards** — Ski resort parking revenue and hospital patient satisfaction, built with Power Query, PivotTables, and KPI dashboards.
   https://github.com/solomonturner/skiresort_parkingrevenue_excel
+
   https://github.com/solomonturner/hospital_patientsatisfaction_excel
 
 ## Tools
