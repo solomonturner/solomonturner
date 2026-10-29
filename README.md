@@ -11,12 +11,12 @@ Aspiring data analyst based in Edmonton, AB, building a portfolio in SQL, Postgr
 ## Featured projects
 
 - **AHS Emergency Department Wait Times Review** — SQL + Power BI analysis of two years of weekly ED wait times across five Edmonton hospitals (2,600 rows). Found p90 waits breaching Alberta's 402-minute benchmark at three of five sites, with community-site Misericordia showing the worst waits.
-  https://github.com/solomonturner/adhoc\_albertahealthservices\_waittime\_analysis
+  https://github.com/solomonturner/adhoc_albertahealthservices_waittime_analysis
 - **IRONSCALES Phishing Analysis** — End-to-end SQL + Power BI analysis of 60K phishing simulations and 7.5K threat incidents across 18 customers. Click rates fell from 18.3% to 4.7% over the program, while repeat offenders stayed concentrated at 58.9%.
-  https://github.com/solomonturner/ironscales\_phishing\_analysis
+  https://github.com/solomonturner/ironscales_phishing_analysis
 - **Excel dashboards** — Ski resort parking revenue and hospital patient satisfaction, built with Power Query, PivotTables, and KPI dashboards.
-  https://github.com/solomonturner/skiresort\_parkingrevenue\_excel
-  https://github.com/solomonturner/hospital\_patientsatisfaction\_excel
+  https://github.com/solomonturner/skiresort_parkingrevenue_excel
+  https://github.com/solomonturner/hospital_patientsatisfaction_excel
 
 ## Tools
 
