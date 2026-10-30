@@ -1,6 +1,6 @@
 # Solomon Turner
 
-Aspiring data analyst based in Edmonton, AB, building a portfolio in SQL, PostgreSQL, Power BI, and Excel. Open to junior data analyst and business analyst roles, remote-first, open to hybrid.
+Aspiring data analyst based in Edmonton, AB, building a portfolio using SQL, PostgreSQL, Power BI, and Excel. Open to junior data analyst and business analyst roles, remote-first, open to hybrid.
 
 ## Background
 
